@@ -32,3 +32,4 @@ plt.plot(X, Y_pred, color='red')
 plt.show()
 
 print(Y_pred)
+
